@@ -1,2 +1,1 @@
-# rsschool-cv
-work on bugs
+https://owin66.github.io/rsschool-cv/cv
